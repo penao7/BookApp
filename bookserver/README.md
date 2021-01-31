@@ -1,6 +1,6 @@
 # Book-App Server
 
-This server is implemented using [Apollo GraphQL](/https://www.apollographql.com/) server for [Book-App Client](/BookApp/bookclient).
+This server is implemented using [Apollo GraphQL](/https://www.apollographql.com/) and is intented to use with [Book-App Client](/BookApp/bookclient). Testing is made by using [jest](/https://jestjs.io/) together with [supertest](https://www.npmjs.com/package/supertest).
 
 ## Usage
 
