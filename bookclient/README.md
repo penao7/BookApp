@@ -8,7 +8,7 @@ Client implementation for [Book-App Server](/bookserver).
 
 - list of all the added books
 - pagination
-- open and cloes book details
+- open and close book details
 
 ### AuthorList
 
