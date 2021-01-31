@@ -29,16 +29,16 @@ Client implementation for [Book-App Server](/bookserver).
 
 ## Permissions
 
-###¤ Non authorized users:
+#### Non authorized users:
 
 - can see the books and authors list's
 
-###¤ Logged in users:
+#### Logged in users:
 
 - can list books by favorite genre in recommendations tab
 - can add books
 
-###¤ Logged in admins:
+#### Logged in admins:
 
 - can list users
 - can delete books
