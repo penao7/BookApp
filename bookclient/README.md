@@ -15,15 +15,15 @@ Client implementation for [Book-App Server](/bookserver).
 - list of all the added authors with books
 - number of how many books author has in the system
 
-### add book
+### Add a book
 
 - adding a book feature for logged in users
 
-### recommendationds
+### Recommendations
 
 - list of books filtered by favorite genre only shown for logged in user.
 
-### users
+### Users
 
 - list of users, only shown for logged in `ADMIN` user
 
