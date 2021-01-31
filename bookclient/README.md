@@ -48,7 +48,7 @@ Client implementation for [Book-App Server](/bookserver).
 
 ```bash
 $ npm install
-$ npm start
+$ npm run start
 ```
 
 by default api URL is defined as
