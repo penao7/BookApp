@@ -17,7 +17,7 @@ Client implementation for [Book-App Server](/bookserver).
 
 ### Add a book
 
-- adding a book feature for logged in users
+- adding a book feature shown for logged in users
 
 ### Recommendations
 
