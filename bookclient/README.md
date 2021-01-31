@@ -1,6 +1,6 @@
 # Book-App Client
 
-Client implementation for [Book-App Server](/bookserver). 
+Client implementation for [Book-App Server](/bookserver). Created by using React and [Apollo Client](https://www.apollographql.com/docs/react/).
 
 ## Features:
 
