@@ -1,6 +1,6 @@
 # BookApp
 
-Book app for managing books. [Backend](/bookserver) is created using Apollo GraphQL and [client](/bookclient) using React.
+Book app for managing books. [Backend](/bookserver) is created by using Apollo GraphQL and [client](/bookclient) using React.
 
 ## Installation
 
